@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandtall
 - 👀 I’m interested in Software Development
-- 📫 How to reach me webyahyaver[at]gmail[dot]com
+- 📫 Contact me at webyahyaver[at]gmail[dot]com
 
 <!---
 brandtall/brandtall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
