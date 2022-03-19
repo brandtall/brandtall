@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @brandtall
+- 👋 Hi, I’m @brandtall (Yahya)
 - 👀 I’m interested in Software Development
-- 📫 Contact me at webyahyaver[at]gmail[dot]com
-- 🔨 Currently building projects
+- 📫 Feel free to contact me at webyahyaver@gmail.com
+- 🔨 Currently working on interesting projects in mathematical modeling and astrodynamics
 
 <!---
 brandtall/brandtall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
